@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videos com HTML</title>
+</head>
+<body>
+    <h1>Inserindo video hospedado localmente</h1>
+    <p>Esse video esta hospedado no meu proprio servidor</p>
+    
+    <video width="560" poster="imagem/template.png" controls>
+        <source src="midia/meu-video-gato.mkv" type="video/mkv">
+        <source src="midia/meu-video-gato.webm" type="video/webm">
+        <source src="midia/meu-video-gato.mp4" type="video/mp4">
+        <p>Seu navegador nao tem compatibilidade com reprodução de videos</p>
+    </video>
+
+    <h1>Inserindo videos do youtube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LW0bhKitRBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <h1>Inserindo videos do vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/29315013?h=4a7399cc6d&color=ff9933&portrait=0" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

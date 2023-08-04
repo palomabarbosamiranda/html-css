@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/* em HTML é id = em CSS é #  --> unico
+   em HTML é class = em CSS é .  --> pode usar varios
+
+   dar nome de um class pela função e nao forma
+   */ 
+
+body {
+    background-color: #ccbedab9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+   color:#5608a5;
+
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #5608a52c;
+    color: #202020;
+    border-radius: 10px;
+}
+
+h2 {
+    color: rgb(125, 89, 161);
+
+}
+
+h2.basico {
+    color: rgb(106, 161, 89);
+}
+
+h2.intermediario {
+    color: rgb(161, 154, 89);
+}
+
+h2.avancado {
+    color: rgb(161, 89, 89);
+
+}

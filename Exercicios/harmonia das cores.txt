@@ -1,0 +1,35 @@
+Circulo Cromático
+
+Utiliizado para harmonizar as cores;
+
+Cores primárias; Amarelo, vermelho, azul
+
+Cores secundarias; Laranja, violeta, verde
+
+Cores terciarias; A mistura de cores primarias e secundaria. Amarelo esverdeado, amarelo alaranjado, vermelho alaranjado, vermelho arroxeado, azul arroxeado, azul esverdeado. (tom pastel)
+
+
+Temperatura de cores
+cores frias (azul, verde, violeta etc.)
+cores quentes (vermelo, amarelo, laranja etc)
+
+ 
+Cores complementares; mais contraste entre si
+violeta -- amarelo, vermelho -- verde
+
+Cores análogas; não tem contraste grande mas sao perceptiveis tem harmonia; violeta -- cores vizinhas
+
+cores análogas e uma complementar; violeta -- cores vizinhas -- amarelo
+
+cores análogas relacionadas; duas cores vizinhas, pular uma cor, e escolher a proxima. 
+amarelo--amarelo alaranjado-vermelho alaranjado
+
+cores intercalados (contraste maior)(cores mais duras), amarelo-pula um-vermelho alaranjado-pula um-vermelho.
+
+cores triadicas; cor de referencia, pular 3 cores e pegar outra cor, pular mais 3 e pegar outra cor. 
+
+cores em quadrado; parecida com a triadica mas em vez de pula 3 pula 2
+
+cores tetrádicas; pegar cor e escolher outra complementar
+
+monocromia; Escolher uma cor e modificar a saturação e luminosidade. 

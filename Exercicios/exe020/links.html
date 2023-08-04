@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+
+            /* 
+            # = id
+            . = class
+            : = pseudo class
+            :: = pseudo elemento
+            >  = children
+                            */
+
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited {
+            color: darkred;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: grey;
+        }
+
+        a::after {
+            content: " [link]";
+            text-decoration: none;
+            font-weight: normal;
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=R9XpA_zXDDI" target="_blank">STREAM NCT 127</a></li>
+        <li><a href="https://www.amazon.com.br/hz/wishlist/ls/1466MJRLASZLS/ref=nav_wishlist_lists_1" target="_blank">Minha Wishlist</a></li>
+        <li><a href="https://www.unip.br/" target="_blank">Minha faculdade</a></li>
+    </ul>
+</body>
+</html>
